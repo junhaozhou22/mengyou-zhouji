@@ -7,7 +7,7 @@
  *
  * 每次发版只需要改 CACHE 里的版本号，activate 时会自动清掉所有旧缓存。
  */
-const VERSION = 'v2'
+const VERSION = 'v5.2.0'
 const CACHE = `together-fit-${VERSION}`
 const PRECACHE = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon.svg']
 
